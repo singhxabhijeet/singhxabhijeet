@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: YOUR/MOM
 - ⚡ Fun fact: IM DOING YOUR MOM
 
+![image](https://github.com/PapaOoOpsie/PapaOoOpsie/assets/89408901/19a8ab4d-b31f-476a-a46e-979b011ca121)
