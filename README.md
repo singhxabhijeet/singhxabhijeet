@@ -2,7 +2,6 @@
 
 
 **PapaOoOpsie** is a ✨ _special_ ✨ one because he is DOING YOUR MOM
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on YOUR MOM
 - 🌱 I’m currently learning ABOUT YOUR MOM
