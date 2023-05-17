@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**PapaOoOpsie** is a ✨ _special_ ✨ one because he is DOING YOUR MOM
+**Abhijeet** is a ✨ _special_ ✨ one because he is DOING YOUR MOM
 
 - 🔭 I’m currently working on YOUR MOM
 - 🌱 I’m currently learning ABOUT YOUR MOM
