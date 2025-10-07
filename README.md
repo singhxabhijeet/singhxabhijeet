@@ -1,4 +1,4 @@
-# Hi there, I'm Abijeet Singh 👋
+# Hi there, I'm Abhijeet Singh 👋
 
 I'm a Cloud and DevOps Engineer passionate about automating complex workflows and building reliable, cloud-native systems. I thrive on solving problems and creating efficient CI/CD pipelines that empower developers. I'm a recent graduate actively seeking opportunities in the cloud and DevOps space.
 
