@@ -25,6 +25,7 @@ Here are a few projects where I've recently contributed:
 | Project | My Contribution | Key Skills Demonstrated |
 |---|---|---|
 | **[CodeTranslateAI](https://github.com/StructZ/CodeTranslateAI)** | Designed and implemented a complete CI/CD release pipeline using GitHub Actions to fully automate the project's release cycle. | `GitHub Actions`, `YAML`, `CI/CD`, `Node.js Scripting`, `Release Management` |
+| **[WiFi-Auto-Auth](https://github.com/01bps/WiFi-Auto-Auth)** | Implemented a smart internet connectivity check to prevent unnecessary login attempts. Resolved merge conflicts and collaborated with the maintainer to merge the feature. | `Python`, `Git`, `Collaboration`, `Debugging` |
 
 ---
 
